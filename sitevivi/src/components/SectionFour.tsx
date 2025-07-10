@@ -49,7 +49,7 @@ const SectionFour: React.FC = () => {
                 onClick={() => handleResponse("sim")}
                 className="px-6 py-3 bg-cinema-neon text-cinema-blade font-orbitron rounded hover:bg-white transition-colors"
               >
-                Sim, replicante. 
+                Sim, meu lindo. 
               </button>
               
               <button 
